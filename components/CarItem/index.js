@@ -7,7 +7,7 @@ const CarItem = (props) => {
   const { name, tagline, image, taglineCTA } = props.car;
 
   return (
-    <View style={styles.carContainer}>
+    <View style={styles.carContainer} key={name}>
       <ImageBackground source={image} style={styles.image} />
 
       <View style={styles.titles}>
