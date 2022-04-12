@@ -22,7 +22,7 @@ const CarItem = (props) => {
           type="primary"
           content={"Custom Order"}
           onPress={() => {
-            console.warn("Custom Order was pressed");
+            console.warn("Elon Musk Rules!!");
           }}
         />
 
@@ -30,7 +30,7 @@ const CarItem = (props) => {
           type="secondary"
           content={"Existing Inventory"}
           onPress={() => {
-            console.warn("Existing Inventory was pressed");
+            console.warn("Sorry, it's an example too. Scroll up!");
           }}
         />
       </View>
