@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "tesla-clone",
-    "slug": "tesla-clone",
+    "name": "Tesla Clone",
+    "slug": "Tesla-Clone",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
